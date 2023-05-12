@@ -1,0 +1,17 @@
+body {
+    background-image: url(image/background.png);
+    background-size: cover;
+    margin:0;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+}
+
+.texte1 {
+  border: 2px double darkred;
+  font-size: 20;
+  margin: 3;
+  display: inline-block;
+  margin-right: 50%;
+  text-align: center;
+  padding: 4px;
+}}
